@@ -1,10 +1,17 @@
 # Project Administrator
 <div>
-    <img style="border-radius: 25%; display:block; max-width: 150px; max-height: 150px; background-position: center;
-  background-repeat: no-repeat;" src="./extras/author-images/{ADMIN-USERNAME}.jpg">
-    <div style="font-size: 20px;">{ADMIN-NAME}</div>
-    <div style="font-size: 15px;">{ADMIN-TITLE}</div>
-    <div style="font-size: 15px;">{ADMIN-AFFILIATION}</div>
+    <img style="border-radius: 25%;
+        max-width: 150px;
+        max-height: 150px;
+        background-position: center;
+        background-repeat: no-repeat;
+        float: left;    
+        margin: 0 15px 0 0;" src="./extras/author-images/{ADMIN-USERNAME}.jpg">
+    <div>
+        <div style="font-size: 20px;">{ADMIN-NAME}</div>
+        <div style="font-size: 15px;">{ADMIN-TITLE}</div>
+        <div style="font-size: 15px;">{ADMIN-AFFILIATION}</div>
+    </div>
 </div>
 
 [![ORCID](https://img.shields.io/badge/ORCID-ID-brightgreen)](https://orcid.org/{ADMIN-ORCID})
