@@ -239,8 +239,8 @@ Distributed under the GNU General Public License. See [LICENSE](https://github.c
 
 <div>
     <img style="border-radius: 25%;
-        max-width: 50px;
-        max-height: 50px;
+        max-width: 150px;
+        max-height: 150px;
         background-position: center;
         background-repeat: no-repeat;
         float: left;    
@@ -251,6 +251,7 @@ Distributed under the GNU General Public License. See [LICENSE](https://github.c
         <div style="font-size: 15px;">Milwaukee Public Museum, Department of Zoology</div>
     </div>
 </div>
+
 
 [![ORCID](https://img.shields.io/badge/ORCID-ID-brightgreen)](https://orcid.org/0000-0002-5453-2569)
 [![TWITTER](https://img.shields.io/twitter/follow/njdowdy1?style=social)](http://www.twitter.com/njdowdy1)
