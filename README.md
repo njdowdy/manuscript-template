@@ -239,8 +239,8 @@ Distributed under the GNU General Public License. See [LICENSE](https://github.c
 
 <div>
     <img style="border-radius: 25%;
-        max-width: 150px;
-        max-height: 150px;
+        max-width: 50px;
+        max-height: 50px;
         background-position: center;
         background-repeat: no-repeat;
         float: left;    
