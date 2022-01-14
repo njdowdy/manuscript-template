@@ -81,10 +81,19 @@
 
 <div id="built-with"></div>
 
+### Funding
+
+Generous funding was provided by:
+* National Science Foundation (USA) <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1811897">1811897</a>
+
+### How To Cite The Project
+
+See the [CITATION](https://github.com/njdowdy/manuscript-template/blob/master/CITATION.md) document.
+
 ### Built With
 
-* [Love!]()
-<!-- * [Python3](https://python.org/) -->
+* [git](https://git-scm.com/)
+* [make](https://www.gnu.org/software/make/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -172,7 +181,11 @@ To "install" the project, perform the following:
     make
     ```
 5. Add a longer description to the <a href="#about-the-project">About the Project</a> section of [README.md](https://github.com/njdowdy/manuscript-template/issues)
-6. Update these files as your repository grows
+6. Update these files as your repository grows, especially:
+   1. [AUTHORS.md]()
+   2. <a href="#roadmap">Roadmap</a>
+   3. <a href="#acknowledgments">Acknowledgments</a>
+
 
 <!--For more examples and usage, please refer to the [Wiki](https://github.com/njdowdy/manuscript-template/wiki).-->
 
