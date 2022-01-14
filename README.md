@@ -182,10 +182,10 @@ To "install" the project, perform the following:
     ```
 5. Add a longer description to the <a href="#about-the-project">About the Project</a> section of [README.md](https://github.com/njdowdy/manuscript-template/issues)
 6. Update these files as your repository grows, especially:
-   1. [AUTHORS.md]()
-   2. <a href="#roadmap">Roadmap</a>
-   3. <a href="#acknowledgments">Acknowledgments</a>
-
+   1. [AUTHORS.md](https://github.com/njdowdy/manuscript-template/blob/master/AUTHORS.md)
+   2. [CITATION.md](https://github.com/njdowdy/manuscript-template/blob/master/CITATION.md)
+   4. <a href="#roadmap">Roadmap</a>
+   5. <a href="#acknowledgments">Acknowledgments</a>
 
 <!--For more examples and usage, please refer to the [Wiki](https://github.com/njdowdy/manuscript-template/wiki).-->
 
