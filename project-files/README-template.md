@@ -237,10 +237,12 @@ Distributed under the GNU General Public License. See [LICENSE](https://github.c
 
 ## Contact
 
+<!-- Note: Github will remove inline styles for security -->
 <div>
-    <img style="border-radius: 25%;
-        max-width: 150px;
+    <img style="
+        width: 150px;
         max-height: 150px;
+        border-radius: 15%;
         background-position: center;
         background-repeat: no-repeat;
         float: left;    
