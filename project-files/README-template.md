@@ -30,8 +30,6 @@
     <a href="https://github.com/{USERNAME}/{REPO-NAME}"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/{USERNAME}/{REPO-NAME}">View Demo</a>
-    ·
     <a href="https://github.com/{USERNAME}/{REPO-NAME}/issues">Report Bug</a>
     ·
     <a href="https://github.com/{USERNAME}/{REPO-NAME}/issues">Request Feature</a>
@@ -197,10 +195,10 @@ To "install" the project, perform the following:
 
 ## Roadmap
 
-- [] [CITATION-template.md](https://github.com/{USERNAME}/{REPO-NAME}/blob/master/project-files/CITATION-template.md) Improvements
-  - [] Add Formatted Citation
-  - [] .bib/.ris Options
-  - [] Altmetric & Dimensions Badges? (requires javascript)
+- [ ] [CITATION-template.md](https://github.com/{USERNAME}/{REPO-NAME}/blob/master/project-files/CITATION-template.md) Improvements
+  - [ ] Add Formatted Citation
+  - [ ] .bib/.ris Options
+  - [ ] Altmetric & Dimensions Badges? (requires javascript)
 
 See the [open issues](https://github.com/{USERNAME}/{REPO-NAME}/issues) for a full list of proposed features (and known issues).
 
