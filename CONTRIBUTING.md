@@ -29,7 +29,8 @@ Some guidelines on how we expect contributions to be made:
 * Don't add any classes to the codebase unless absolutely needed. Err on the side of using functions.
 * Keep feature versions as small as possible, preferably one new feature per version.
 * Be welcoming to newcomers and encourage diverse new contributors from all backgrounds
-  * We follow the [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
+
+The **Code of Conduct** for this community can be found [here](https://github.com/njdowdy/manuscript-template/CODE_OF_CONDUCT.md)
 
 # Your First Contribution
 Pull the repo and make some improvements!
@@ -81,15 +82,11 @@ If the answer to either of those two questions are "yes", then you're probably d
 
 ### Filing A Bug Report
 
-When filing an issue, make sure to answer these five questions:
+Please file an [issue](https://github.com/njdowdy/manuscript-template/issues), use the ["bug"](https://github.com/njdowdy/manuscript-template/labels/bug) label, and follow the Bug Report [Template](https://github.com/njdowdy/manuscript-template/blob/master/.github/ISSUE_TEMPLATE/bug_report.md).
 
-1. What version of the software are you using?
-2. What operating system and processor architecture are you using?
-3. What did you do?
-4. What did you expect to see?
-5. What did you see instead?
+# General Questions
 
-**General questions should not go to the issue tracker**
+Please file an [issue](https://github.com/njdowdy/manuscript-template/issues) and use the ["question"](https://github.com/njdowdy/manuscript-template/labels/question) label for your issue.
 
 # Suggestions and Feature Requests
 
@@ -99,12 +96,12 @@ Nothing to see here.
 ### Roadmap
 Nothing to see here.
 
-### Suggesting a Feature
+### Suggesting Documentation-Related Improvements
+Please file an [issue](https://github.com/njdowdy/manuscript-template/issues), use the ["documentation"](https://github.com/njdowdy/manuscript-template/labels/documentation) label, and follow the Feature Request [Template](https://github.com/njdowdy/manuscript-template/blob/master/.github/ISSUE_TEMPLATE/feature_request.md).
 
-Open an issue on our issues list on GitHub:
- - Describes the feature you would like to see
- - Describe why you need it
- - Describe how you think it should work
+### Suggesting New or Improved Features
+Please file an [issue](https://github.com/njdowdy/manuscript-template/issues), use the ["enhancement"](https://github.com/njdowdy/manuscript-template/labels/enhancement) label, and follow the Feature Request [Template](https://github.com/njdowdy/manuscript-template/blob/master/.github/ISSUE_TEMPLATE/feature_request.md).
+
  
 # Code Review Process
 ### How Contributions Get Accepted
@@ -122,11 +119,11 @@ To become a core member of the team, please contact the project administrator.
 Nothing to see here.
 
 # Styling Conventions
-## Code
+### Code
 Nothing to see here.
-## Commit Messages
+### Commit Messages
 Nothing to see here.
-## Commit Labeling
+### Commit Labeling
 Nothing to see here.
-## Code Styling
+### Code Styling
 Nothing to see here.
